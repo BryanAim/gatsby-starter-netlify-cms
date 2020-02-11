@@ -64,6 +64,15 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
+    <div style={{margin: "0 auto"}}>
+        <form >
+          <div style={{ margin: "0 auto"}}>
+            <input type="text" id="Search" placeholder="What are you searching for? " style= {{margin: "0 auto", width: "400px"}}
+            />
+
+          </div>
+        </form>
+      </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">

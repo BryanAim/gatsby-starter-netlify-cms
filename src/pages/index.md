@@ -3,7 +3,7 @@ templateKey: index-page
 title: Nakuru Finder App
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: 'Find Homes, Local Businesses And More!'
+subheading: Find EVERYTHING you need within Nakuru.
 mainpitch:
   title: Why Nakuru Finder?
   description: >
